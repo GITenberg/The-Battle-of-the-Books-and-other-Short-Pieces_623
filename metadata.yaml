@@ -1,0 +1,44 @@
+_repo: The-Battle-of-the-Books-and-other-Short-Pieces_623
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Swift, Jonathan
+    alias: Swift, J. (Jonathan)
+    birthdate: 1667
+    deathdate: 1745
+    gutenberg_agent_id: '326'
+    url: http://www.gutenberg.org/2009/agents/326
+    wikipedia: http://en.wikipedia.org/wiki/Jonathan_Swift
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: "The Battle of the Books is the name of a short satire written by Jonathan\
+  \ Swift and published as part of the prolegomena to his A Tale of a Tub in 1704.\
+  \ It depicts a literal battle between books in the King's Library (housed in St.\
+  \ James's Palace at the time of the writing), as ideas and authors struggle for\
+  \ supremacy. Because of the satire, \"The Battle of the Books\" has become a term\
+  \ for the Quarrel of the Ancients and the Moderns.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1996-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '623'
+  wikidata: Q7715895
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ancients and moderns, Quarrel of'
+- !lcsh 'English essays'
+- !lcsh 'Satire, English'
+- !lcc 'PR'
+- GITenberg
+title: The Battle of the Books, and other Short Pieces
+url: http://www.gutenberg.org/ebooks/623
+wikipedia:
+- https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%B2%D0%B0_%D0%BA%D0%BD%D0%B8%D0%B3
+- https://en.wikipedia.org/wiki/The_Battle_of_the_Books

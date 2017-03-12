@@ -1,5 +1,8 @@
 _repo: The-Battle-of-the-Books-and-other-Short-Pieces_623
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Swift, Jonathan
@@ -22,6 +25,8 @@ description: "The Battle of the Books is the name of a short satire written by J
   \ James's Palace at the time of the writing), as ideas and authors struggle for\
   \ supremacy. Because of the satire, \"The Battle of the Books\" has become a term\
   \ for the Quarrel of the Ancients and the Moderns.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/623#The-Battle-of-the-Books-and-other-Short-Pieces
 gutenberg_issued: '1996-08-01'
 gutenberg_type: Text
 identifiers:
